@@ -16,8 +16,10 @@ Why does this file exist, and why not put this in __main__?
 """
 import click
 
+from pua import get_ua
+
 
 @click.command()
-@click.argument('names', nargs=-1)
-def main(names):
-    click.echo(repr(names))
+def main():
+    ua = get_ua()
+    click.echo(ua)
