@@ -8,6 +8,8 @@ import random
 __version__ = '0.1.1'
 
 
+# https://techblog.willshouse.com/2012/01/03/most-common-user-agents/
+
 USER_AGENTS = [
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:51.0) Gecko/20100101 Firefox/51.0',
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:51.0) Gecko/20100101 Firefox/51.0',
