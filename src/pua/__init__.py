@@ -87,7 +87,11 @@ def get_ua():
     """ Return a random user-agent """
     return random.choice(USER_AGENTS).strip()
 
+def get_header():
+    return {"User-Agent": random.choice(USER_AGENTS).strip()}
+
 
 __all__ =  [
     "get_ua",
+    "get_header",
 ]
