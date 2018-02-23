@@ -40,9 +40,9 @@ Overview
     :alt: PyPI Package latest release
     :target: https://pypi.python.org/pypi/pua
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/pmav99/pua/v0.1.1.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/pmav99/pua/v0.1.2.svg
     :alt: Commits since latest release
-    :target: https://github.com/pmav99/pua/compare/v0.1.1...master
+    :target: https://github.com/pmav99/pua/compare/v0.1.2...master
 
 .. |wheel| image:: https://img.shields.io/pypi/wheel/pua.svg
     :alt: PyPI Wheel

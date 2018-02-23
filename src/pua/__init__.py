@@ -5,7 +5,7 @@
 
 import random
 
-__version__ = '0.1.1'
+__version__ = '0.1.2'
 
 
 # https://techblog.willshouse.com/2012/01/03/most-common-user-agents/

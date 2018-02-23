@@ -24,7 +24,7 @@ def read(*names, **kwargs):
 
 setup(
     name='pua',
-    version='0.1.1',
+    version='0.1.2',
     license='BSD 3-Clause License',
     description='A utility providing random user agents.',
     long_description='%s\n%s' % (
